@@ -2,7 +2,7 @@
 Demonstration of Linear regression with Python 3 using SciKit.
 
 
->Linear regression attempts to model the relationship between two variables by fitting >a linear equation to observed data. One variable is considered to be an explanatory >variable, and the other is considered to be a dependent variable. 
+>Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable. 
 
 #### Screenshots:
 ![training-data](https://i.ibb.co/vqz8gVM/train.png)
